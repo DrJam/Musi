@@ -1,0 +1,26 @@
+{
+  "name": "musi",
+  "version": "1.0.0",
+  "description": "A music bot for discord",
+  "author": "Dan Ford <dan@fordsville.co.uk>",
+  "contributors": [
+    {
+      "name": "Dan Ford",
+      "email": "dan@fordsville.co.uk"
+    }
+  ],
+  "bin": {},
+  "scripts": {
+    "start": "node src/app.ts"
+  },
+  "main": "sec/app.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DrJam/Musi"
+  },
+  "bugs": {
+    "url": "https://github.com/DrJam/Musi/issues"
+  },
+  "private": false,
+  "license": "MIT"
+}
